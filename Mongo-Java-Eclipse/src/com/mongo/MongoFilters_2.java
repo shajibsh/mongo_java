@@ -18,7 +18,7 @@ import com.mongodb.client.model.Filters;
  * @author Farrukh
  */
 
-public class Mongo_Filers_2 {
+public class MongoFilters_2 {
 	public static void main(String[] args) {
 		MongoClient mongo = new MongoClient();
 		MongoDatabase db = mongo.getDatabase("mongojava");

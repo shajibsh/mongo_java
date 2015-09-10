@@ -17,7 +17,7 @@ import com.mongodb.client.MongoDatabase;
  *
  */
 
-public class Mongo_Insert_Find_1 {
+public class MongoInsertFind_1 {
 
 	public static void main(String[] args) {
 		MongoClient mongo = new MongoClient();
